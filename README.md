@@ -21,3 +21,17 @@ This involves deciding where to place text, images, videos, and other media elem
 Wireframes often include placeholders for interactive elements like search bars, form inputs, dropdowns, sliders, or modals.
 **Example**: A login form in a wireframe may include fields for username and password, with a 'Login' button. This represents a key user action and sets the foundation for future interactivity.
 
+# Types of Wireframes.
+**Low-Fidelity Wireframes**: Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
+- **When to Use**: Early in the design process to brainstorm and gather quick feedback.
+
+**High-Fidelity Wireframes**: More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
+- **When to Use**: Later in the design process once structure and flow are approved.
+
+## Identifying This Wireframe Type
+**type**: High fidelity wireframe
+This wireframe is considered *high-fidelity* because it includes detailed content, precise spacing, and visual elements that closely resemble the final product. It typically features real or near-final text, icons, branding elements.
+
+
+
+
