@@ -32,6 +32,19 @@ Wireframes often include placeholders for interactive elements like search bars,
 **type**: High fidelity wireframe
 This wireframe is considered *high-fidelity* because it includes detailed content, precise spacing, and visual elements that closely resemble the final product. It typically features real or near-final text, icons, branding elements.
 
+## Popular Wireframing Tools
+- Figma
+- Miro
+- Adobe XD
+- Sketch
+
+**Figma** is highly recommended as it allows you to rapidly prototype wireframes and iterate on them with your team. Since it works directly in the browser, there’s no need for downloads or syncing issues. You can also transition from wireframes to high-fidelity mockups within the same file, making your workflow more efficient.
+**Key Features:**
+- Real-time collaboration with team members
+- Pre-made UI kits and wireframe templates
+- Easy-to-use drag-and-drop design tools
+- Component system for reusable design elements
+- Free plan with generous features
 
 
 
